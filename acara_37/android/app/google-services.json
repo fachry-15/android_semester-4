@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "630434290549",
+    "project_id": "fir-auth-a9755",
+    "storage_bucket": "fir-auth-a9755.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:630434290549:android:06521c002dee325444d13c",
+        "android_client_info": {
+          "package_name": "com.example.acara_37"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "630434290549-8fj3aempoljn84ehqjq93e3351ql6voe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuqnZY_7Nb_NHjtN9RGigHiBQ6Gw29n8I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "630434290549-8fj3aempoljn84ehqjq93e3351ql6voe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
